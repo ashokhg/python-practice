@@ -7,4 +7,3 @@
 4. winsound
 5. datetime
 6. matplotlib
-7. numpy and many morev to go
